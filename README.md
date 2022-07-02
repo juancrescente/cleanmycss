@@ -5,7 +5,7 @@ CleanMyCSS is a command line python tool that
 crawls an entire website and returns clean versions of the css files, removing unused rules.
 
 It is a script I developed many many years ago but that I still 
-use to optimize the CSS from many of my websites, including large CSS files 
+use to optimize the CSS from many of my legacy websites, including large CSS files 
 like bootstrap. 
 
 
