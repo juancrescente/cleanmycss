@@ -21,7 +21,7 @@ in search engines like Google.
 Most CSS cleaners are either not so good (dont crawl entire websites) or costly.
 This is a simple command line script that makes all that for you.
 
-## Usage
+## Dependencies
 - Install dependencies in requirements.txt
 
 ```
@@ -36,7 +36,7 @@ npm i -g purgecss
 
 - Download [chromedriver](https://chromedriver.chromium.org/downloads)
 
-- Run!
+## Usage
 
 ```
 python clean.py -m 1000
