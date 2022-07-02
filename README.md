@@ -73,5 +73,7 @@ python clean.py -m 1000
 ```
 
 ## Results
-Results are stored in `runs/` directory. CSSs files are in `runs/{runid}/cssout`.
+Results are stored in `runs/` directory. 
+CSSs files are in `runs/{runid}/cssout`.
+There are also CSV reports of the parsed links, CSS with original size and reduction  `runs/{runid}/reports`.
 
