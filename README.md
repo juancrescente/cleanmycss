@@ -16,11 +16,10 @@ like bootstrap.
 - URL clustering (package urlclustering), only crawls samples when there are thousands of similar URLs
 
 ## Motivation
-Websites need to be lightning fast nowadays to compete with each other.
-The more resources a website needs to download, the less fast and less ranked
-in search engines like Google.
-Most CSS cleaners are either not so good (dont crawl entire websites) or costly.
-This is a simple command line script that makes all that for you.
+Websites need to be lightning fast nowadays. The more resources a website
+ needs to download, the slower and worse ranked in search engines like Google.
+Most CSS cleaners are either not complete (dont crawl entire websites) or costly.
+This is a simple command line script that makes all of that for you.
 
 ## Dependencies
 - Install dependencies in requirements.txt
