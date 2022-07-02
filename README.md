@@ -28,13 +28,13 @@ This is a simple command line script that makes all that for you.
 pip install -r requirements.txt
 ```
 
-- Install purgecss
+- Install [purgecss](https://purgecss.com/)
 
 ```
 npm i -g purgecss
 ```
 
-- Download chromedriver
+- Download [chromedriver](https://chromedriver.chromium.org/downloads)
 
 - Run!
 
